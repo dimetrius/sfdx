@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="salesforce.module" version="4">
+  <component name="ComponentSet">
+    <type2Names>
+      <SFMetaTypeNamesState type="APEX_COMPONENT" />
+      <SFMetaTypeNamesState type="CUSTOM_OBJECT">
+        <option name="myNames">
+          <set>
+            <option value="Account" />
+            <option value="AccountContactRole" />
+            <option value="ActiveScratchOrg" />
+            <option value="Activity" />
+            <option value="Asset" />
+            <option value="AssetRelationship" />
+            <option value="AssistantProgress" />
+            <option value="Campaign" />
+            <option value="CampaignMember" />
+            <option value="Case" />
+            <option value="CaseContactRole" />
+            <option value="Contact" />
+            <option value="ContentVersion" />
+            <option value="Contract" />
+            <option value="ContractContactRole" />
+            <option value="DuplicateRecordItem" />
+            <option value="DuplicateRecordSet" />
+            <option value="EmailMessage" />
+            <option value="Event" />
+            <option value="ExchangeUserMapping" />
+            <option value="FeedItem" />
+            <option value="ForecastingCategoryMapping" />
+            <option value="Idea" />
+            <option value="Lead" />
+            <option value="NamespaceRegistry" />
+            <option value="Opportunity" />
+            <option value="OpportunityCompetitor" />
+            <option value="OpportunityContactRole" />
+            <option value="OpportunityLineItem" />
+            <option value="Order" />
+            <option value="OrderItem" />
+            <option value="PartnerRole" />
+            <option value="Pricebook2" />
+            <option value="PricebookEntry" />
+            <option value="Product2" />
+            <option value="ProfileSkill" />
+            <option value="ProfileSkillEndorsement" />
+            <option value="ProfileSkillUser" />
+            <option value="ScratchOrgInfo" />
+            <option value="Site" />
+            <option value="SocialPersona" />
+            <option value="SocialPost" />
+            <option value="Solution" />
+            <option value="StreamingChannel" />
+            <option value="Task" />
+            <option value="User" />
+            <option value="UserProvisioningRequest" />
+            <option value="WorkBadge" />
+            <option value="WorkBadgeDefinition" />
+            <option value="WorkOrder" />
+            <option value="WorkOrderLineItem" />
+            <option value="WorkThanks" />
+          </set>
+        </option>
+      </SFMetaTypeNamesState>
+      <SFMetaTypeNamesState type="APEX_TRIGGER" />
+      <SFMetaTypeNamesState type="APEX_PAGE" />
+      <SFMetaTypeNamesState type="APEX_CLASS" />
+    </type2Names>
+    <builtIn>
+      <type value="CUSTOM_FIELD" />
+      <type value="WEB_LINK" />
+      <type value="CUSTOM_OBJECT" />
+    </builtIn>
+    <unmananged>
+      <type value="APPROVAL_PROCESS" />
+      <type value="GROUP" />
+      <type value="CUSTOM_LABELS" />
+      <type value="HOME_PAGE_LAYOUT" />
+      <type value="CUSTOM_SITE" />
+      <type value="POST_TEMPLATE" />
+      <type value="QUEUE" />
+      <type value="APEX_COMPONENT" />
+      <type value="ROLE" />
+      <type value="CUSTOM_OBJECT" />
+      <type value="CUSTOM_METADATA" />
+      <type value="TRANSLATIONS" />
+      <type value="CUSTOM_FIELD" />
+      <type value="PLATFORM_CACHE_PARTITION" />
+      <type value="FLOW_DEFINITION" />
+      <type value="CUSTOM_OBJECT_TRANSLATION" />
+      <type value="COMMUNITY_THEME_DEFINITION" />
+      <type value="CUSTOM_TAB" />
+      <type value="ASSIGNMENT_RULES" />
+      <type value="REPORT_TYPE" />
+      <type value="WORKFLOW" />
+      <type value="FLOW" />
+      <type value="HOME_PAGE_COMPONENT" />
+      <type value="APEX_TRIGGER" />
+      <type value="INSTALLED_PACKAGE" />
+      <type value="LAYOUT" />
+      <type value="CALL_CENTER" />
+      <type value="STATIC_RESOURCE" />
+      <type value="CUSTOM_APPLICATION" />
+      <type value="COMMUNITY" />
+      <type value="PERMISSION_SET" />
+      <type value="PROFILE" />
+      <type value="REPORT" />
+      <type value="PORTAL" />
+      <type value="QUICK_ACTION" />
+      <type value="SHARING_SET" />
+      <type value="SITE_DOT_COM" />
+      <type value="WEB_LINK" />
+      <type value="APEX_PAGE" />
+      <type value="COMMUNITY_TEMPLATE_DEFINITION" />
+      <type value="APEX_CLASS" />
+      <type value="SETTINGS" />
+      <type value="SHARING_RULES" />
+    </unmananged>
+    <managed>
+      <type value="CUSTOM_FIELD" />
+      <type value="WEB_LINK" />
+      <type value="CUSTOM_OBJECT" />
+      <type value="APEX_CLASS" />
+    </managed>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
